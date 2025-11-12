@@ -34,7 +34,7 @@ export default function BreakfastRestaurant() {
       price: "15"
     },
     {
-      name: "Shrimops & Grits",
+      name: "Shrimp & Grits",
       description: "Southern-style shrimp, creamy stone-ground grits, thyme butter, parsley ",
       price: "18"
     },
@@ -42,7 +42,7 @@ export default function BreakfastRestaurant() {
       name: "Smoked Salmon",
       description: "House-smoked salmon, cream cheese, capers, hashbrown cake",
       note: "+10 for caviar",
-      price: "19"
+      price: "17"
     }
   ];
 
